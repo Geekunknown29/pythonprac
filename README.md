@@ -1,1 +1,1 @@
-# pythonprac
+# hacker rank practice
