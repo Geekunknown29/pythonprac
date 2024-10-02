@@ -1,0 +1,15 @@
+def quest() :
+ if task == 'print':
+    print(list)
+
+ elif task == "append "input("")":
+    list.append(input(""))
+
+
+n = int( input("n : "))
+list = [3,4,2]
+task = input("task")
+f = 0
+while f<n :
+   quest()
+   f = f+1
